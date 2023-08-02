@@ -42,7 +42,8 @@
 		],
 		"parameters": {
 			"fiscalyear": {
-				"type": "int"
+				"type": "string",
+				"defaultValue": "\"2021\""
 			}
 		},
 		"annotations": [],
